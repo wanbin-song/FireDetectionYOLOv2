@@ -7,10 +7,10 @@ MATLAB program for CCTV surveillance system using Deep Learning
 - YOLOv2 deep learning model implemented to detect fire from video stream
 
 Entire Workflow
-1. Access data : imagedatastore
+1. Access data : Acess 1000+ images with imagedatastore
 2. Labeling data : Automatic fire labeling class for image labeler defined using image processing apps, e.g. color thresholder, image segmenter
-3. Training : YOLOv2 training using vehicle detect yolov2 network
-4. Deployment : Inference speed acceleration by generating mex file for real-time prediction
+3. Training : YOLOv2 training trainNetwork function
+4. Deployment : Inference speed acceleration by generating C/C++ CUDA mex file for real-time prediction
 
 Dataset Used</br>
 - Cazzolato, Mirela T., et al. "FiSmo: A Compilation of Datasets from Emergency Situations for Fire and Smoke Analysis." Proceedings of the satellite events (2017).</br>
