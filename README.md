@@ -6,7 +6,7 @@ Demo for CCTV surveillance system using Deep Learning
 - Applying deep learning to Video streams from CCTV
 - YOLOv2 deep learning model implemented to detect fire from video stream
 
-Suitable to suggest deep learning workflow with our tool
+Entire Workflow
 1. Access data : imagedatastore
 2. Labeling data : Automatic fire labeling class for image labeler defined using image processing apps, e.g. color thresholder, image segmenter
 3. Training : YOLOv2 training using vehicle detect yolov2 network
