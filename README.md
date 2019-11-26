@@ -11,3 +11,10 @@ Suitable to suggest deep learning workflow with our tool
 2. Labeling data : Automatic fire labeling class for image labeler defined using image processing apps, e.g. color thresholder, image segmenter
 3. Training : YOLOv2 training using vehicle detect yolov2 network
 4. Deployment : Inference speed acceleration by generating mex file for real-time prediction
+
+Dataset Used</br>
+- Cazzolato, Mirela T., et al. "FiSmo: A Compilation of Datasets from Emergency Situations for Fire and Smoke Analysis." Proceedings of the satellite events (2017).</br>
+Copyright 2019 The MathWorks, Inc.</br>
+
+Cite As</br>
+Wanbin Song (2019). Fire Detection for CCTV surveillance system using YOLOv2 (https://www.github.com/wanbin-song/FireDetectionYOLOv2), GitHub. Retrieved November 26, 2019.</br>
